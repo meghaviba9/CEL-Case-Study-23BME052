@@ -52,11 +52,11 @@ If excitation frequency is swept and amplitude is plotted:
 The graph will show five resonance peaks (equal to number of masses).
 Peaks occur near the natural frequencies ω₁ < ω₂ < ω₃ < ω₄ < ω₅.
 The first peak is usually largest (fundamental mode dominates).
+Higher-mode peaks become sharper and narrower.
+At very high frequencies, response amplitude decreases.
 
 Author:
 Meghaviba Vaghela
 (Mechanical engineering student)
 
 
-Higher-mode peaks become sharper and narrower.
-At very high frequencies, response amplitude decreases.
